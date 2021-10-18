@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders main role 1`] = `
+<div>
+  <div
+    class="ErrorMessage__StyledErrorMessage-sc-wuzvpj-0 gctktl"
+  >
+    Failed to load users
+  </div>
+</div>
+`;
